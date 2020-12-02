@@ -1,0 +1,71 @@
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars\Dice Wars\bin\Debug\Dice Wars.exe.config
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars\Dice Wars\bin\Debug\Dice Wars.exe
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars\Dice Wars\bin\Debug\Dice Wars.pdb
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars\Dice Wars\obj\Debug\Dice Wars.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars\Dice Wars\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars\Dice Wars\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars\Dice Wars\obj\Debug\Dice Wars_MarkupCompile.cache
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars\Dice Wars\obj\Debug\Dice Wars_MarkupCompile.lref
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars\Dice Wars\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars\Dice Wars\obj\Debug\Dice Wars.g.resources
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars\Dice Wars\obj\Debug\Dice_Wars.Properties.Resources.resources
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars\Dice Wars\obj\Debug\Dice Wars.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars\Dice Wars\obj\Debug\Dice Wars.exe
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars\Dice Wars\obj\Debug\Dice Wars.pdb
+C:\Users\mrina\Downloads\Dice Wars\Dice Wars\obj\Debug\Dice Wars.csprojAssemblyReference.cache
+C:\Users\mrina\Downloads\Dice Wars\Dice Wars\obj\Debug\App.g.cs
+C:\Users\mrina\Downloads\Dice Wars\Dice Wars\obj\Debug\Dice Wars_MarkupCompile.cache
+C:\Users\mrina\Downloads\Dice Wars\Dice Wars\obj\Debug\Dice Wars.exe
+C:\Users\mrina\Downloads\Dice Wars\Dice Wars\obj\Debug\Dice Wars.pdb
+C:\Users\mrina\Downloads\Dice Wars\Dice Wars\bin\Debug\Dice Wars.exe.config
+C:\Users\mrina\Downloads\Dice Wars\Dice Wars\bin\Debug\Dice Wars.exe
+C:\Users\mrina\Downloads\Dice Wars\Dice Wars\bin\Debug\Dice Wars.pdb
+C:\Users\mrina\Downloads\Dice Wars\Dice Wars\obj\Debug\MainWindow.g.cs
+C:\Users\mrina\Downloads\Dice Wars\Dice Wars\obj\Debug\Dice Wars_MarkupCompile.lref
+C:\Users\mrina\Downloads\Dice Wars\Dice Wars\obj\Debug\MainWindow.baml
+C:\Users\mrina\Downloads\Dice Wars\Dice Wars\obj\Debug\Dice Wars.g.resources
+C:\Users\mrina\Downloads\Dice Wars\Dice Wars\obj\Debug\Dice_Wars.Properties.Resources.resources
+C:\Users\mrina\Downloads\Dice Wars\Dice Wars\obj\Debug\Dice Wars.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars - Mrinal v1\Dice Wars\bin\Debug\Dice Wars.exe.config
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars - Mrinal v1\Dice Wars\bin\Debug\Dice Wars.exe
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars - Mrinal v1\Dice Wars\bin\Debug\Dice Wars.pdb
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars - Mrinal v1\Dice Wars\obj\Debug\Dice Wars.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars - Mrinal v1\Dice Wars\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars - Mrinal v1\Dice Wars\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars - Mrinal v1\Dice Wars\obj\Debug\Dice Wars_MarkupCompile.cache
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars - Mrinal v1\Dice Wars\obj\Debug\Dice Wars_MarkupCompile.lref
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars - Mrinal v1\Dice Wars\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars - Mrinal v1\Dice Wars\obj\Debug\Dice Wars.g.resources
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars - Mrinal v1\Dice Wars\obj\Debug\Dice_Wars.Properties.Resources.resources
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars - Mrinal v1\Dice Wars\obj\Debug\Dice Wars.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars - Mrinal v1\Dice Wars\obj\Debug\Dice Wars.exe
+\\Mac\Home\Desktop\Software Development\Assignment 5\Dice Wars - Mrinal v1\Dice Wars\obj\Debug\Dice Wars.pdb
+C:\Users\mrina\Desktop\Dice Wars\Dice Wars\bin\Debug\Dice Wars.exe.config
+C:\Users\mrina\Desktop\Dice Wars\Dice Wars\bin\Debug\Dice Wars.exe
+C:\Users\mrina\Desktop\Dice Wars\Dice Wars\bin\Debug\Dice Wars.pdb
+C:\Users\mrina\Desktop\Dice Wars\Dice Wars\obj\Debug\Dice Wars.csprojAssemblyReference.cache
+C:\Users\mrina\Desktop\Dice Wars\Dice Wars\obj\Debug\MainWindow.g.cs
+C:\Users\mrina\Desktop\Dice Wars\Dice Wars\obj\Debug\App.g.cs
+C:\Users\mrina\Desktop\Dice Wars\Dice Wars\obj\Debug\Dice Wars_MarkupCompile.cache
+C:\Users\mrina\Desktop\Dice Wars\Dice Wars\obj\Debug\Dice Wars_MarkupCompile.lref
+C:\Users\mrina\Desktop\Dice Wars\Dice Wars\obj\Debug\MainWindow.baml
+C:\Users\mrina\Desktop\Dice Wars\Dice Wars\obj\Debug\Dice Wars.g.resources
+C:\Users\mrina\Desktop\Dice Wars\Dice Wars\obj\Debug\Dice_Wars.Properties.Resources.resources
+C:\Users\mrina\Desktop\Dice Wars\Dice Wars\obj\Debug\Dice Wars.csproj.GenerateResource.cache
+C:\Users\mrina\Desktop\Dice Wars\Dice Wars\obj\Debug\Dice Wars.exe
+C:\Users\mrina\Desktop\Dice Wars\Dice Wars\obj\Debug\Dice Wars.pdb
+E:\Semester 1\software development\assignments\Dice Wars\Dice Wars\bin\Debug\Dice Wars.exe.config
+E:\Semester 1\software development\assignments\Dice Wars\Dice Wars\bin\Debug\Dice Wars.exe
+E:\Semester 1\software development\assignments\Dice Wars\Dice Wars\bin\Debug\Dice Wars.pdb
+E:\Semester 1\software development\assignments\Dice Wars\Dice Wars\obj\Debug\Dice Wars.csprojAssemblyReference.cache
+E:\Semester 1\software development\assignments\Dice Wars\Dice Wars\obj\Debug\MainWindow.g.cs
+E:\Semester 1\software development\assignments\Dice Wars\Dice Wars\obj\Debug\App.g.cs
+E:\Semester 1\software development\assignments\Dice Wars\Dice Wars\obj\Debug\Dice Wars_MarkupCompile.cache
+E:\Semester 1\software development\assignments\Dice Wars\Dice Wars\obj\Debug\Dice Wars_MarkupCompile.lref
+E:\Semester 1\software development\assignments\Dice Wars\Dice Wars\obj\Debug\MainWindow.baml
+E:\Semester 1\software development\assignments\Dice Wars\Dice Wars\obj\Debug\Dice Wars.g.resources
+E:\Semester 1\software development\assignments\Dice Wars\Dice Wars\obj\Debug\Dice_Wars.Properties.Resources.resources
+E:\Semester 1\software development\assignments\Dice Wars\Dice Wars\obj\Debug\Dice Wars.csproj.GenerateResource.cache
+E:\Semester 1\software development\assignments\Dice Wars\Dice Wars\obj\Debug\Dice Wars.csproj.CoreCompileInputs.cache
+E:\Semester 1\software development\assignments\Dice Wars\Dice Wars\obj\Debug\Dice Wars.exe
+E:\Semester 1\software development\assignments\Dice Wars\Dice Wars\obj\Debug\Dice Wars.pdb

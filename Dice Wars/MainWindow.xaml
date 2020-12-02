@@ -1,0 +1,70 @@
+﻿<!-- Dice Wars Assignment 5 By: Mrinal Bedi, Varalakshmi Gottiparthi, Alaa Kabbani and Vamshi Mani Rasukachula-->
+    <Window x:Class="Dice_Wars.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Dice_Wars"
+        mc:Ignorable="d"
+        Title="Dice Wars" Height="500" Width="800"
+        Icon="images/dice.png" Background='Black' ResizeMode="NoResize">
+    
+    <Grid Margin="10">
+        <Grid.Background>
+            <ImageBrush ImageSource="images/thumb.jpg"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="1.5*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        
+        <!--Main label with game instructions-->
+        <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" Content="Roll the dice to play, first player to reach a score of 20 wins!!" Name="Information" FontSize="24" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Background="Maroon" Foreground="White" FontWeight="ExtraBold" BorderBrush="Transparent" Margin="1"/>
+
+        <!--labels indicating player 1 and player 2 columns-->
+        <Label Grid.Column="0" Content="Player 1" Name="Player1" FontSize="24" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Background="Transparent" Foreground="Black" FontWeight="DemiBold" BorderBrush="Transparent" Grid.ColumnSpan="3" Margin="0,42,397,0" Grid.RowSpan="2"/>
+        <Label Grid.Column="2" Content="Player 2" Name="Player2" FontSize="24" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Background="Transparent" Foreground="black" FontWeight="DemiBold" BorderBrush="Transparent" Margin="0.5,42,0,0" Grid.RowSpan="2"/>
+
+        <!-- Images of Die 1 Faces for the number rolled by player 1-->
+        <Image Source="{Binding ImageSourceDie1}" Grid.Column="0" Grid.Row="2" Width="80" Visibility="{Binding ImageVisibility}" Margin="169,0,168.5,42"/>
+        <Image Source="{Binding ImageSourceDie1}" Grid.Column="0" Grid.Row="2" Width="80" Visibility="{Binding ImageVisibility}" Margin="169,0,168.5,42"/>
+        <Image Source="{Binding ImageSourceDie1}" Grid.Column="0" Grid.Row="2" Width="80" Visibility="{Binding ImageVisibility}" Margin="169,0,168.5,42"/>
+        <Image Source="{Binding ImageSourceDie1}" Grid.Column="0" Grid.Row="2" Width="80" Visibility="{Binding ImageVisibility}" Margin="169,0,168.5,42"/>
+        <Image Source="{Binding ImageSourceDie1}" Grid.Column="0" Grid.Row="2" Width="80" Visibility="{Binding ImageVisibility}" Margin="169,0,168.5,42"/>
+        <Image Source="{Binding ImageSourceDie1}" Grid.Column="0" Grid.Row="2" Width="80" Visibility="{Binding ImageVisibility}" Margin="169,0,168.5,42"/>
+
+        <Image Source="{Binding ImageSourceDie2}" Grid.Column="1" Grid.Row="2" Width="80" Visibility="{Binding ImageVisibility}" Margin="168.5,0,169,42"/>
+        <Image Source="{Binding ImageSourceDie2}" Grid.Column="1" Grid.Row="2" Width="80" Visibility="{Binding ImageVisibility}" Margin="168.5,0,169,42"/>
+        <Image Source="{Binding ImageSourceDie2}" Grid.Column="1" Grid.Row="2" Width="80" Visibility="{Binding ImageVisibility}" Margin="168.5,0,169,42"/>
+        <Image Source="{Binding ImageSourceDie2}" Grid.Column="1" Grid.Row="2" Width="80" Visibility="{Binding ImageVisibility}" Margin="168.5,0,169,42"/>
+        <Image Source="{Binding ImageSourceDie2}" Grid.Column="1" Grid.Row="2" Width="80" Visibility="{Binding ImageVisibility}" Margin="168.5,0,169,42"/>
+        <Image Source="{Binding ImageSourceDie2}" Grid.Column="1" Grid.Row="2" Width="80" Visibility="{Binding ImageVisibility}" Margin="168.5,0,169,42"/>
+
+        <!--Labels for the running scores output boxes -->
+        <Label Grid.Row="3" Grid.Column="0" Content="Player 1 Running Score" FontSize="24" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Background="White" Foreground="Maroon" FontWeight="Medium" BorderBrush="Transparent" Margin="60,0,60,0"/>
+        <Label Grid.Row="3" Grid.Column="1" Content="Player 2 Running Score" FontSize="24" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Background="White" Foreground="Maroon" FontWeight="Medium" BorderBrush="Transparent" Margin="60,0,60,0"/>
+
+        <!--Output textbox to display the running scores -->
+        <TextBox Grid.Row="4" Grid.Column="0" Text="{Binding Player1TotalScore}" BorderBrush="Maroon" BorderThickness="2" Margin="120, 3, 120, 4" Background="White" FontSize="20" FontWeight="Bold" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <TextBox Grid.Row="4" Grid.Column="1" Text="{Binding Player2TotalScore}" BorderBrush="Maroon" BorderThickness="2" Margin="120, 3, 120, 4" Background="White" FontSize="20" FontWeight="Bold" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+
+        <!--Buttons-->
+        <Button Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="2" Content="ROLL" Name="Roll" Margin="100,4,180,4" Background="LightSlateGray" Foreground ="Maroon" FontSize="23" FontWeight="Bold" BorderBrush="Maroon" BorderThickness="4" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Roll_Click"/>
+        <Button Grid.Row="7" Grid.Column="1" Content="Play Again" Name="PlayAgain" Margin="250, 7, 4, 7" Click="PlayAgain_Click" Background="Maroon" Foreground= "White" FontWeight="Bold" FontSize="14"/>
+        <Button Grid.Row="6" Grid.Column="1" Content="Save Results" Name="Save" Margin="250,7,4,7" Click="Save_Click" Background="Maroon" Foreground= "White" FontWeight="Bold" FontSize="14"/>
+        
+        <!--Textbox that displays who won or if there is a tie -->
+        <TextBox Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="2" Text="{Binding Winner}" BorderBrush="Transparent" Background="Transparent" Margin="320,4,320,4" FontSize="17" TextWrapping="Wrap" FontWeight="Heavy" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+    </Grid>
+</Window>
